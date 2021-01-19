@@ -1,2 +1,1 @@
-<! DOCTYPE html >
-Hola soy tu asistente personal
+Asistente personal
